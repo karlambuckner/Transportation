@@ -5,3 +5,20 @@
 #fun-responses {
   display: none;
 }
+
+.jumbotron {
+  background-color: red;
+  margin: 10px;
+  color: white;
+}
+
+#transportation_survey {
+  border: 2px solid;
+  padding: 5px;
+}
+
+img {
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+}
