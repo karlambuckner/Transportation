@@ -26,6 +26,6 @@ _Bootstrap Markdown JavaScript jQuery_
 
 ### License
 
-*This is licensed under the MIT license.
+This is licensed under the MIT license.
 
 Copyright (c) 2017 **_Karla Buckner_**
